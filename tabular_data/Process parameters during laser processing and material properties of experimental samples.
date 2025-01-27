@@ -1,1 +1,8 @@
-
+Properties,Value
+scan_speed,200_mm/s
+shielding_gas_flow,118_mm/min
+laser_power,1000 W
+Melting_Point_of_Cu,1358_K
+Melting_Point_of_Ti6Al4V,1923 K
+absorptance_of_powder_bed,5.0 × 107 m−1
+initial_porosity_(ϕt=0),	0.45
